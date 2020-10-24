@@ -5,7 +5,7 @@ import "./App.css";
 import Nav from "./components/Nav"
 import Search from "./pages/Search";
 import Saved from "./pages/Saved";
-import Jumbotron from "./components/Jumbotron";
+// import Jumbotron from "./components/Jumbotron";
 
 class App extends Component {
   render() {
